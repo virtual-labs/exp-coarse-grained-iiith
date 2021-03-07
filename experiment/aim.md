@@ -1,7 +1,7 @@
 Part-of-speech tagging is the process of assigning a part-of-speech (lexical class marker) to each word in a corpus. The basic parts of speech are : Noun, Verb, Determiner, Adjective, Adverb, Preposition (in English), Postposition (in Hindi).
 
 
-<img src="Exp5/a.jpg">
+<img src="images/a.jpg">
 
 
 <br/>
