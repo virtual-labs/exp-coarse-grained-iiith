@@ -15,7 +15,8 @@ Eg: A noun in one sentence and an adjective in the next.
 
 <br/>
 Part-of-speech tagging is the process of assigning a part-of-speech (lexical class marker) to each word in a corpus.
-
+<br/>
+<br/>
 
 |POS|Function|Example|
 |---|---|---|
