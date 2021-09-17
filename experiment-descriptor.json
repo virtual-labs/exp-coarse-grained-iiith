@@ -32,7 +32,7 @@
       "source": "assignment.md",
       "label": "Assignment",
       "unit-type": "task",
-      "content-type": "simulation"
+      "content-type": "text"
     },
     {
       "target": "references",
