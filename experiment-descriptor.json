@@ -28,7 +28,7 @@
       "content-type": "simulation"
     },
     {
-      "target": "assignment",
+      "target": "assignment.html",
       "source": "assignment.md",
       "label": "Assignment",
       "unit-type": "task",
