@@ -1,0 +1,8 @@
+
+/home/runner/work/exp-coarse-grained-iiith/exp-coarse-grained-iiith/experiment/simulation/js/modernizr-1.5.min.js
+  12:496  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  20:134  warning  Unexpected constant condition                                    no-constant-condition
+  25:51   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+✖ 3 problems (0 errors, 3 warnings)
+
