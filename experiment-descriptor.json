@@ -35,7 +35,7 @@
       "content-type": "text"
     },
     {
-      "target": "references",
+      "target": "references.html",
       "source": "references.md",
       "label": "References",
       "unit-type": "task",
@@ -43,4 +43,3 @@
     }
   ]
 }
-
