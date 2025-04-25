@@ -1,0 +1,86 @@
+
+/home/runner/work/exp-coarse-grained-iiith/exp-coarse-grained-iiith/experiment/simulation/js/bootstrap.min.js
+  6:285    warning  'jQuery' is not defined                 no-undef
+  6:1041   warning  'jQuery' is not defined                 no-undef
+  6:1975   warning  'jQuery' is not defined                 no-undef
+  6:3839   warning  'jQuery' is not defined                 no-undef
+  6:7882   warning  'jQuery' is not defined                 no-undef
+  6:11250  warning  'jQuery' is not defined                 no-undef
+  6:13595  warning  'jQuery' is not defined                 no-undef
+  6:19576  warning  'jQuery' is not defined                 no-undef
+  6:27121  warning  'a' is assigned a value but never used  no-unused-vars
+  6:28444  warning  'jQuery' is not defined                 no-undef
+  6:30033  warning  'jQuery' is not defined                 no-undef
+  7:416    warning  'jQuery' is not defined                 no-undef
+  7:2236   warning  'jQuery' is not defined                 no-undef
+  7:4649   warning  'jQuery' is not defined                 no-undef
+
+/home/runner/work/exp-coarse-grained-iiith/exp-coarse-grained-iiith/experiment/simulation/js/jquery.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:5615   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:6098   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6322   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6830   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7600   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9866   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:10176  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12758  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12796  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13779  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14091  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15919  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16388  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16762  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:17452  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19272  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19372  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19616  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20785  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22057  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22168  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:24334  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33946  warning  Empty block statement                                                      no-empty
+  2:37691  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:39340  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39456  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39716  warning  Empty block statement                                                      no-empty
+  2:49400  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:50960  warning  Empty block statement                                                      no-empty
+  2:59283  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60452  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66084  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67827  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67893  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68197  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68263  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68670  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68947  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74372  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75966  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:76746  warning  'r.href' is assigned to itself                                             no-self-assign
+  2:81551  warning  Empty block statement                                                      no-empty
+  2:84667  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:89180  warning  'define' is not defined                                                    no-undef
+  2:89192  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-coarse-grained-iiith/exp-coarse-grained-iiith/experiment/simulation/js/main.js
+  113:10  warning  'selectLang' is defined but never used               no-unused-vars
+  153:10  warning  'loadSimulationInterface' is defined but never used  no-unused-vars
+  186:21  warning  'correctTag' is assigned a value but never used      no-unused-vars
+  216:10  warning  'checkAnswer' is defined but never used              no-unused-vars
+  220:12  warning  '_' is assigned a value but never used               no-unused-vars
+  247:10  warning  'correctTable' is defined but never used             no-unused-vars
+  249:12  warning  '_' is assigned a value but never used               no-unused-vars
+  259:10  warning  'clearTable' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-coarse-grained-iiith/exp-coarse-grained-iiith/experiment/simulation/js/modernizr-1.5.min.js
+  12:496  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  20:134  warning  Unexpected constant condition                                    no-constant-condition
+  25:51   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+✖ 75 problems (0 errors, 75 warnings)
+
