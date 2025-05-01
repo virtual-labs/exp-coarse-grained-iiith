@@ -1,18 +1,50 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
-
-	<p><li>Click <a href="./coarse/index.html" target="_new">here</a> to perform the experiment</li></p>
-
-<body>
-   
-
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
-</body>
+<html lang="en">
+  <head>
+    <link href="./css/bootstrap.min.css" rel="stylesheet" />
+    <link href="./css/style.css" rel="stylesheet" />
+    <script
+      src="https://code.jquery.com/jquery-2.2.4.min.js"
+      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="./js/main.js"></script>
+  </head>
+  <body class="index" id="page-top">
+    <div id="top">
+      <div id="content">
+        <div
+          class="container-fluid"
+          style="margin-left: 35px; margin-right: 35px"
+        >
+          <div class="row">
+            <div class="col-md-10 lab-list-col-10">
+              <div class="content" id="experiment-article-section-4-content">
+                <div id="POS_TAG_1"></div>
+                <div align="center" id="mainContainer">
+                  <!-- Language Selection Dropdown -->
+                  <form id="languageForm">
+                    <select
+                      name="lang_opt"
+                      id="lang_opt"
+                      autocomplete="off"
+                      onchange="selectLang();"
+                    >
+                      <option value="0" selected>---Select Language---</option>
+                      <option value="1">English</option>
+                      <option value="2">Hindi</option>
+                    </select>
+                  </form>
+                  <br /><br />
+                  <!-- Sentence Options Container -->
+                  <div id="sen_opt"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
